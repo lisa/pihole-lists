@@ -1,0 +1,46 @@
+#############################
+# lg content store images & software updates
+#############################
+ngfts.lge.com
+lgad.cjpowercast.com.edgesuite.net
+ca.lgtvsdp.com
+lgtvonline.lge.com
+www.ueiwsp.com
+#############################
+# https://old.reddit.com/r/pihole/comments/scsg2w/lg_tv_has_changed_ad_providers_january_2022/
+# 0.65.03
+#############################
+aic-ngfts.lge.com
+aic.cdpbeacon.lgtvcommon.com
+bl-server.alphonso.tv
+clockskew.alphonso.tv
+prov-lg.alphonso.tv
+us.ibs.lgappstv.com
+us.info.lgsmartad.com
+us.rdx2.lgtvsdp.com
+#############################
+# https://youtu.be/6IFVTcM28KA
+#############################
+(^|\.)\.ad\.lgsmartad\.com
+(^|\.)\.cws.\conviva\.com
+(^|\.)\.emp\.lgsmartplatform\.com
+(^|\.)\.info\.lgsmartad\.com
+(^|\.)\.lgeapi\.com
+(^|\.)\.negtlgsdp\.com
+(^|\.)\.tv\.wiselg\.com
+aic-gfts.nextlgsdp.com
+aic.api.adts.lgtvcommon.com
+aic.cdpsvc.lgtvcommon.com
+aic.rdl.lgtvcommon.com
+api.axiom.co
+api.ipify.org
+cdn-media.brightline.tv
+discovery.meethue.com
+imasdk.googleapis.com
+na-ssp-pix.adstk.io
+ngfts.lge.com.akadns.net
+ngfts.nextlgsdp.com
+pagead2.googlesyndication.com
+snu.lge.com
+static.doubleclick.net
+ueiwsp.com
