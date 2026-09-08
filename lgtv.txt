@@ -21,13 +21,13 @@ us.rdx2.lgtvsdp.com
 #############################
 # https://youtu.be/6IFVTcM28KA
 #############################
-(^|\.)\.ad\.lgsmartad\.com
-(^|\.)\.cws.\conviva\.com
-(^|\.)\.emp\.lgsmartplatform\.com
-(^|\.)\.info\.lgsmartad\.com
-(^|\.)\.lgeapi\.com
-(^|\.)\.negtlgsdp\.com
-(^|\.)\.tv\.wiselg\.com
+*.ad.lgsmartad.com
+*.cws.conviva.com
+*.emp.lgsmartplatform.com
+*.info.lgsmartad.com
+*.lgeapi.com
+*.negtlgsdp.com
+*.tv.wiselg.com
 aic-gfts.nextlgsdp.com
 aic.api.adts.lgtvcommon.com
 aic.cdpsvc.lgtvcommon.com
